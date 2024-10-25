@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Girish-Portfolio/static/css/main.156eb764.css",
+    "main.js": "/Girish-Portfolio/static/js/main.c3eec47c.js",
+    "static/js/453.a4f82616.chunk.js": "/Girish-Portfolio/static/js/453.a4f82616.chunk.js",
+    "static/media/Girish Profile pic.jpg": "/Girish-Portfolio/static/media/Girish Profile pic.9f11adcbab96c1fe66a4.jpg",
+    "index.html": "/Girish-Portfolio/index.html",
+    "main.156eb764.css.map": "/Girish-Portfolio/static/css/main.156eb764.css.map",
+    "main.c3eec47c.js.map": "/Girish-Portfolio/static/js/main.c3eec47c.js.map",
+    "453.a4f82616.chunk.js.map": "/Girish-Portfolio/static/js/453.a4f82616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156eb764.css",
+    "static/js/main.c3eec47c.js"
+  ]
+}
