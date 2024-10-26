@@ -2,7 +2,7 @@ import React from 'react';
 
 function Skills() {
   return (
-    <section id="skills">
+    <section id="languages">
       <h2>Languages</h2>
       <ul>
         <li>English</li>
