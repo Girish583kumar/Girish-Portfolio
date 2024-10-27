@@ -1,0 +1,41 @@
+/* Education.css */
+
+.education {
+  padding: 2rem;
+  background-color: #f4f8fb;
+}
+
+.education-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  
+  text-align: center;
+}
+
+.education-container {
+  display: flex;
+  flex-wrap: wrap;
+  
+  justify-content: space-around;
+}
+
+.education-card {
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem;
+  width: 250px; /* Adjust width as needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.education-card:hover {
+  transform: scale(1.05); /* Scale effect on hover */
+}
+/* Example to apply sky blue to education degree */
+.education-card :degree {
+  color: #87CEEB; /* Sky blue color */
+  font-weight: bold; /* Makes it stand out */
+}

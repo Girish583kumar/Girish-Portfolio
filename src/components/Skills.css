@@ -1,0 +1,55 @@
+/* Skills.css */
+
+.skills {
+    padding: 2rem;
+    background-color: #ffffff;
+}
+
+.skills-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.skill-card {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem;
+    width: 250px; /* Adjust width as needed */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.skill-card:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+}
+
+.skill-category-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    color: #00BFFF; /* Sky blue color */
+    /* Removed underline */
+}
+
+.skill-items {
+    list-style-type: none; /* Remove default list styling */
+    padding-left: 0; /* Remove padding */
+}
+
+.skill-item {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    text-align: center; /* Center-align items */
+    /* Removed underline */
+    color: #333; /* Optional: Darker text color for skills */
+}
