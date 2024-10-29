@@ -7,6 +7,7 @@ const Certificates = () => {
         {
             title: "Data Analyst",
             institution: "ExcelR Institute",
+            duration:"6 Months ",
             year: "2023"
         },
         {
@@ -33,6 +34,7 @@ const Certificates = () => {
                 {certificateData.map((cert, index) => (
                     <div className="certificate-card" key={index}>
                         <h3 className="certificate-title">{cert.title}</h3>
+                        <h4 className="certificate-title">{cert.duration}</h4>
                         <p className="certificate-institution">{cert.institution}</p>
                         <p className="certificate-year">{cert.year}</p>
                     </div>
