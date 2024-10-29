@@ -7,10 +7,12 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Certificates from './components/Certificates';
 import Contact from './components/Contact';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <div className="app-background">
       <Header />
       <main>
         <section id="about"><About /></section>
@@ -22,6 +24,8 @@ function App() {
         <section id="contact"><Contact /></section>
       </main>
     </div>
+    </div>
+  
   );
 }
 
