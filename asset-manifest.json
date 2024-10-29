@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Girish-Portfolio/static/css/main.7a5bfe9c.css",
-    "main.js": "/Girish-Portfolio/static/js/main.c0190f11.js",
+    "main.css": "/Girish-Portfolio/static/css/main.98adb9b8.css",
+    "main.js": "/Girish-Portfolio/static/js/main.d34bcdbc.js",
     "static/js/453.6b0a5c61.chunk.js": "/Girish-Portfolio/static/js/453.6b0a5c61.chunk.js",
     "static/media/Profile.jpg": "/Girish-Portfolio/static/media/Profile.9f11adcbab96c1fe66a4.jpg",
     "index.html": "/Girish-Portfolio/index.html",
-    "main.7a5bfe9c.css.map": "/Girish-Portfolio/static/css/main.7a5bfe9c.css.map",
-    "main.c0190f11.js.map": "/Girish-Portfolio/static/js/main.c0190f11.js.map",
+    "main.98adb9b8.css.map": "/Girish-Portfolio/static/css/main.98adb9b8.css.map",
+    "main.d34bcdbc.js.map": "/Girish-Portfolio/static/js/main.d34bcdbc.js.map",
     "453.6b0a5c61.chunk.js.map": "/Girish-Portfolio/static/js/453.6b0a5c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a5bfe9c.css",
-    "static/js/main.c0190f11.js"
+    "static/css/main.98adb9b8.css",
+    "static/js/main.d34bcdbc.js"
   ]
 }
