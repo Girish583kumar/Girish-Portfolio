@@ -2,7 +2,7 @@
 
 .certificates {
   padding: 2rem;
-  background-color: #ffffff;
+  
 }
 
 .certificates-title {
@@ -10,7 +10,7 @@
   font-weight: bold;
   margin-bottom: 1.5rem;
   text-align: center;
-  color:#61dafb;
+  color:black;
 }
 
 .certificates-container {
