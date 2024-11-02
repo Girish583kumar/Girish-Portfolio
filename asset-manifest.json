@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Girish-Portfolio/static/css/main.9b67738d.css",
+    "main.css": "/Girish-Portfolio/static/css/main.8dfce936.css",
     "main.js": "/Girish-Portfolio/static/js/main.c0190f11.js",
     "static/js/453.6b0a5c61.chunk.js": "/Girish-Portfolio/static/js/453.6b0a5c61.chunk.js",
     "static/media/Profile.jpg": "/Girish-Portfolio/static/media/Profile.9f11adcbab96c1fe66a4.jpg",
     "index.html": "/Girish-Portfolio/index.html",
-    "main.9b67738d.css.map": "/Girish-Portfolio/static/css/main.9b67738d.css.map",
+    "main.8dfce936.css.map": "/Girish-Portfolio/static/css/main.8dfce936.css.map",
     "main.c0190f11.js.map": "/Girish-Portfolio/static/js/main.c0190f11.js.map",
     "453.6b0a5c61.chunk.js.map": "/Girish-Portfolio/static/js/453.6b0a5c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b67738d.css",
+    "static/css/main.8dfce936.css",
     "static/js/main.c0190f11.js"
   ]
 }
