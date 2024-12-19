@@ -25,7 +25,7 @@ const Contact = () => {
       <h2>Contact Me</h2>
 
       <div className="contact-details">
-        <p><strong>Email:</strong> girish573kumar@gmail.com</p>
+        <p><strong>Email:</strong> girish983kumar@gmail.com</p>
         <p><strong>Phone:</strong> +91-6302737269</p>
       </div>
 
