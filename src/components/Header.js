@@ -18,7 +18,7 @@ const Header = () => {
                 <h1 className="profile-name">Meda Girish Kumar</h1>
                 <h1 className="role">Data Analyst/Power BI Developer/Tableau Developer</h1> {/* Add the role here */}
                 <h1 className="profile-name"><a href="gmailto:girish983kumar@gmail.com">girish983kumar@gmail.com</a></h1>
-                <h1 className="profile-name">6302737269</h1>
+                <h1 className="profile-name">+916302737269</h1>
             </div>
             <div className="social-media">
             <a href="https://github.com/Girish583kumar" target="_blank" rel="noopener noreferrer">
