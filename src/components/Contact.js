@@ -26,7 +26,7 @@ const Contact = () => {
 
       <div className="contact-details">
         <p><strong>Email:</strong> girish983kumar@gmail.com</p>
-        <p><strong>Phone:</strong> +91-6302737269</p>
+        <p><strong>Phone:</strong> +91- 6302737269</p>
       </div>
 
       <form onSubmit={handleSubmit} className="contact-form">
